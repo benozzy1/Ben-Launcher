@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Google Dino",
+        "description": "A placeholder description for the stupid Google Dino game.",
+        "thumbnail_link": "https://i.pinimg.com/736x/e5/6f/0e/e56f0ef1ed61bf011aab7e11956666e4.jpg",
+        "versions": {
+            "0.1": {
+                "download_links": {
+                    "windows": "https://drive.google.com/file/d/1e12XVC2M0huqsraBzEqtnX5oQvtn4AxQ/view?usp=sharing",
+                    "linux": "https://drive.google.com/file/d/1pInqL76crumlNwDom0fTk_n14Nc1iyBI/view?usp=share_link",
+                },
+            },
+        },
+    },
+]
